@@ -1,0 +1,17 @@
+1/ Qu'est ce qu'un commit
+
+Le commit permet de sauvegarder une version du code de manière sécurisée en gardant une trace de qui,
+comment et pourquoi cela a été fait.
+
+2/ A quoi sert la commande git log
+
+Cette commande permet d'afficher tous les commit effectuée sur la branche en cours d'utilisation.
+De voir le nom de ma personne, son email et le SHA correspondant à la modif.
+
+3/ Qu'est ce qu'une branche
+
+Une branche permet de travailler sur une copie du code pour ajouter des fonctionnalités, 
+corriger des bugs, experimenter de changements.
+Cela sans impacter la branche de code courant / master
+
+
